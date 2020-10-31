@@ -1,0 +1,61 @@
+/* Everything here is for font, alignment, colour, etc */
+
+body{
+  font-family: "Ubuntu";
+}
+
+
+#title {
+  background-color: #708090;
+}
+
+.container-fluid{
+  padding: 3% 10%;
+}
+
+h1 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #fff;
+}
+
+p{
+  color: #8f8f8f;
+}
+
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box{
+  text-align: center;
+}
+
+.icon{
+  color: #708090;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color: #000000;
+}
+
+#education{
+  padding: 7% 15%;
+  text-align: center;
+  color: #fff;
+  background-color: #708090;
+}
+
+#skills{
+  padding: 7% 15%;
+  color: #000000;
+  background-color: #FFFFFF;
+}
+
+#submissionform {
+  border-radius: 5px;
+  background-color: #708090;
+  padding: 7% 15%;
+}
